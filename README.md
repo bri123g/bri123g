@@ -16,7 +16,13 @@ I’m interested in full-stack development and AI, especially building tools tha
 ## 🚀 Featured Projects
 - **EchoTales** – Voice-driven storytelling platform using AI-generated narration and visuals  
 - **Plan_It_Ahead** – AI-powered itinerary planner with personalized recommendations and database integration.
-- **Pitch Her** – A professional speed-interview practice platform for women  
+- **Pitch Her** – A professional speed-interview practice platform for women
+
+## 🌸 A Little About Me
+- Interested in AI, full-stack development, and education tech  
+- Enjoys building projects that mix creativity + technology  
+- Loves video games, tech deep-dives, and rom-com movies  
+- Big fan of learning by doing and experimenting with new ideas
 
 ## 🌱 Currently Learning
 - LLMs & AI applications  

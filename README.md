@@ -21,7 +21,7 @@ I’m interested in full-stack development and AI, especially building tools tha
 ## 🌸 A Little About Me
 - Interested in AI, full-stack development, and education tech  
 - Enjoys building projects that mix creativity + technology  
-- Loves video games, tech deep-dives, and rom-com movies  
+- Loves video games, pickleball, and rom-com movies  
 - Big fan of learning by doing and experimenting with new ideas
 
 ## 🌱 Currently Learning
